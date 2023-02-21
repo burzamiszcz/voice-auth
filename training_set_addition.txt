@@ -1,5 +1,0 @@
-lol-sample0.wav
-lol-sample1.wav
-lol-sample2.wav
-lol-sample3.wav
-lol-sample4.wav
